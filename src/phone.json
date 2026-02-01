@@ -1,0 +1,73 @@
+[
+  {
+    "id": "ph-001",
+    "brand": "Apple",
+    "model": "iPhone 15",
+    "os": "iOS",
+    "sim": "eSIM",
+    "price": 799,
+    "image": "https://cdn.mos.cms.futurecdn.net/yDn3ZSXu9eSBxmXQDZ4PCF.jpg"
+  },
+  {
+    "id": "ph-002",
+    "brand": "Samsung",
+    "model": "Galaxy S24",
+    "os": "Android",
+    "sim": "Dual SIM (nano + eSIM)",
+    "price": 859,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8vJs4YxzY9cl6-8cn7VM8QJeg9UjVUHCoFw&s"
+  },
+  {
+    "id": "ph-003",
+    "brand": "Google",
+    "model": "Pixel 8",
+    "os": "Android",
+    "sim": "Dual SIM (nano + eSIM)",
+    "price": 699,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThDBlMr87GGrhwQ7JH9SvgeVRh0QWXzy541g&s"
+  },
+  {
+    "id": "ph-004",
+    "brand": "Xiaomi",
+    "model": "Xiaomi 14",
+    "os": "Android",
+    "sim": "Dual SIM",
+    "price": 749,
+    "image": "https://www.dxomark.com/wp-content/uploads/medias/post-167814/Xiaomi-14-featured-image-packshot-review.jpg"
+  },
+  {
+    "id": "ph-005",
+    "brand": "OnePlus",
+    "model": "OnePlus 12",
+    "os": "Android",
+    "sim": "Dual SIM",
+    "price": 799,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpMN3MX6uiQZz6TV45P1NZq6EbHk93vj9W4Q&s"
+  },
+  {
+    "id": "ph-006",
+    "brand": "Nothing",
+    "model": "Phone (2)",
+    "os": "Android",
+    "sim": "Dual SIM (nano + eSIM)",
+    "price": 599
+  },
+  {
+    "id": "ph-007",
+    "brand": "Motorola",
+    "model": "Edge 40",
+    "os": "Android",
+    "sim": "Dual SIM",
+    "price": 499,
+    "image": "https://scdn.comfy.ua/89fc351a-22e7-41ee-8321-f8a9356ca351/https://cdn.comfy.ua/media/catalog/product/2/0/2023_manaus_basicpack_black_beauty_backside_1_.jpg/w_600"
+  },
+  {
+    "id": "ph-008",
+    "brand": "Nokia",
+    "model": "G60",
+    "os": "Android",
+    "sim": "Dual SIM",
+    "price": 299,
+    "image": "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-g60-5g-1.jpg"
+  }
+]
