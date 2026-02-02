@@ -8,11 +8,11 @@ import { Section } from "./section/section";
 function App({ info }) {
   return (
     <>
-      {/* <h1>React Component</h1>
+      <h1>React Component</h1>
       <p>text</p>
       <Button text="hello" messange="Hello world" />
       <p>{info}</p>
-      <Title messange="це заголовок" /> */}
+      <Title messange="це заголовок" />
 
       <Section title="заголовок секції">
         <ModalPhone data={phone} />
